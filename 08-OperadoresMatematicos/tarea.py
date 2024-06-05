@@ -9,6 +9,6 @@ corresponde por las comisiones.
 print("--- LooPSell\'s ENTERPRICE ---")
 nombre = input("Cual es su nombre: \n\t")
 ventas = input("¿Cuanto ha vendido este mes?\n\t$ ")
-ventasInt = int(ventas)
+ventasInt = float(ventas)
 porcentaje = round(((ventasInt * 13)/100),2)
 print(f"Estimado/a socio {nombre}, usted declara haber vendido un total de \" $ {ventas} \" en este mes.\n Calculando el 13% de sus ventas totales. \n Usted recibe de comision el siguiente valor: $ {porcentaje}. \n  "  "  Muchas gracias por su maravilloso trabajo y aportacion. \n\t --- LooPSell\'s ENTERPRICE ---")

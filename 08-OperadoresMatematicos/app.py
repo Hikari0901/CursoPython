@@ -27,5 +27,5 @@ print(f"la raiz cuadrada de {x} es {x**0.5}")
 
 #redondeo se usa ("round" que es propio de python + , (el numero de decimales))
 resultado = 97/7
-redondeo = round(resultado, 17)
+redondeo = round(resultado, 4)
 print(redondeo)
