@@ -28,7 +28,7 @@ mi_lista4.append('h')
 print(mi_lista4)
 
 #METODO PARA ELIMINAR 'siempre elimina el ultimo de la lista' *se le puede agregar una posicion
-mi_lista4.pop(0)
+mi_lista4.pop(2)
 print(mi_lista4)
 
 #METODO DE ORDENAR LISTAS *aveces sale 'none' y se debe reconocer como dato*
