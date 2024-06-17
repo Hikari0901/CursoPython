@@ -24,8 +24,10 @@ Los objetos pueden ser:
 fisicos: persona.- Nombre, Edad --- caminar, hablar
 Conceptuales (no se pueden tocar): sistema de creditos.- nombre, creditos -- agregar,eliminar
 
-¿Que es una clase?
+¿Que es una clase? (Identidad)
 un molde o relacionado con un plano de una casa, de una clase se puede crear muchos objetos, la abstraccion analzia objetos
 para crear clases
 
+atributos (Estado)
+son mas caracteristicas de la clase
 """
